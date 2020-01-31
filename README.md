@@ -4,6 +4,8 @@ This repo contains sample applications that will help you learn to build awesome
 
 ### New to the Platform?
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/devcode1981/messenger-platform-samples.svg)](https://greenkeeper.io/)
+
 Have a look at the [Introduction section](https://developers.facebook.com/docs/messenger-platform/getting-started) of the docs
 
 ### Looking to get started?
