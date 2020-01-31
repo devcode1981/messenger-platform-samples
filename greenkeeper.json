@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "handover_protocol/package.json",
+        "inter-page/marketing-bot/package.json",
+        "inter-page/support-bot/package.json",
+        "node/package.json",
+        "quick-start/package.json",
+        "webview/package.json"
+      ]
+    }
+  }
+}
